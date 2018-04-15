@@ -25,5 +25,7 @@ A person (can be the client, a doctor, pharmacist) register a medicine, providin
 ### Acknowledgments
 
 Wifi examples - https://github.com/espressif/esp-idf/tree/master/examples/wifi
+
 Mqtt examples - https://github.com/tuanpmt/espmqtt
+
 Json examples - https://github.com/zserge/jsmn
