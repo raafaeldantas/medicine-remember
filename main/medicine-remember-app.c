@@ -220,8 +220,8 @@ static void wifi_init(void){
     ESP_ERROR_CHECK(esp_wifi_set_storage(WIFI_STORAGE_RAM));
     wifi_config_t wifi_config = {
         .sta = {
-            .ssid = "rafawifi",
-            .password = "12345678",
+            .ssid = "AMNET85_4269",
+            .password = "33aJvqrv",
         },
     };
     ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_STA));

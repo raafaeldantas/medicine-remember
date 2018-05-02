@@ -24,7 +24,7 @@ rtc_module.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -150,7 +150,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

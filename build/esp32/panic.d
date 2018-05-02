@@ -27,7 +27,7 @@ panic.o: C:/msys32/home/Rafael/esp/esp-idf/components/esp32/panic.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/uart.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_types.h \
@@ -153,7 +153,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

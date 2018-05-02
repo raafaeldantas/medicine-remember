@@ -17,7 +17,7 @@ flash_ops.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/string.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/string.h \
@@ -139,7 +139,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

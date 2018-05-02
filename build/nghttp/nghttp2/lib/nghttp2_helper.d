@@ -32,7 +32,7 @@ nghttp2/lib/nghttp2_helper.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/nghttp/port/include/nghttp2/nghttp2ver.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_net.h
 
@@ -100,7 +100,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

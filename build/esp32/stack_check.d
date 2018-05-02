@@ -1,6 +1,6 @@
 stack_check.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/stack_check.c \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_system.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdint.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -57,7 +57,7 @@ stack_check.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/touch_channel.h
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_system.h:
 

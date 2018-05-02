@@ -23,7 +23,7 @@ uart.o: C:/msys32/home/Rafael/esp/esp-idf/components/driver/uart.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h \
@@ -145,7 +145,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h:
 

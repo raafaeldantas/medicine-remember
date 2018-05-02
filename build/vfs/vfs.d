@@ -18,7 +18,7 @@ vfs.o: C:/msys32/home/Rafael/esp/esp-idf/components/vfs/vfs.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/string.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/string.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/errno.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/fcntl.h \
@@ -83,7 +83,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/string.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

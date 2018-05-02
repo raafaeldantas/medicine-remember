@@ -22,7 +22,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha512_mbedtls.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/include/mbedtls/sha512.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/include/mbedtls/check_config.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/limits.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/string.h \
@@ -72,7 +72,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/include/mbedtls/sha512.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/mbedtls/include/mbedtls/check_config.h:
 

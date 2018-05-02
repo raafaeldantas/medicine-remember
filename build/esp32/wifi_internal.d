@@ -21,7 +21,7 @@ wifi_internal.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/heap/include/multi_heap.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -65,5 +65,5 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/heap/include/multi_heap.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 /home/Rafael/esp/esp-idf/components/esp32/./wifi_internal.c:

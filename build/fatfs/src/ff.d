@@ -10,7 +10,7 @@ src/ff.o: C:/msys32/home/Rafael/esp/esp-idf/components/fatfs/src/ff.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/endian.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/param.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/reent.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -111,7 +111,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/endian.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/param.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

@@ -17,7 +17,7 @@ cxx_guards.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdint.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -112,7 +112,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

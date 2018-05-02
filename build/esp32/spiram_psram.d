@@ -1,6 +1,6 @@
 spiram_psram.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/spiram_psram.c \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/string.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/_ansi.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/newlib.h \
@@ -60,7 +60,7 @@ spiram_psram.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/queue.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/driver/include/driver/periph_ctrl.h
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/string.h:
 

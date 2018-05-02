@@ -27,7 +27,7 @@ bt.o: C:/msys32/home/Rafael/esp/esp-idf/components/bt/bt.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdint.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/heap/include/esp_heap_caps.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/heap/include/multi_heap.h \
@@ -155,7 +155,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/assert.h:
 

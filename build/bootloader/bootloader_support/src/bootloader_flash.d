@@ -3,7 +3,7 @@ src/bootloader_flash.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_err.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h \
+ c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -27,7 +27,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_err.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h:
+c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log.h:
 

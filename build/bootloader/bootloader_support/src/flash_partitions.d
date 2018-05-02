@@ -4,7 +4,7 @@ src/flash_partitions.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_err.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_flash_data_types.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log.h \
- c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h \
+ c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -23,7 +23,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_flash_data_types.
 
 C:/msys32/home/Rafael/esp/esp-idf/components/log/include/esp_log.h:
 
-c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h:
+c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

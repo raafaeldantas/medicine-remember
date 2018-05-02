@@ -9,7 +9,7 @@ spi_flash_rom_patch.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/spi_flash.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h \
- c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h
+ c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 
@@ -29,5 +29,5 @@ C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/rom/spi_flash.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h:
 
-c:\msys32\home\rafael\esp\hello_world\build\include\sdkconfig.h:
+c:\msys32\home\rafael\esp\medicine-remember\build\include\sdkconfig.h:
 /home/Rafael/esp/esp-idf/components/spi_flash/./spi_flash_rom_patch.c:

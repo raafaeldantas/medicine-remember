@@ -5,7 +5,7 @@ esp32/rtc_pm.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/features.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -37,7 +37,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h:
 

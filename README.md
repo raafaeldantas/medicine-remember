@@ -29,3 +29,7 @@ Wifi examples - https://github.com/espressif/esp-idf/tree/master/examples/wifi
 Mqtt examples - https://github.com/tuanpmt/espmqtt
 
 Json examples - https://github.com/zserge/jsmn
+
+### Youtube Link
+
+Test 1 - https://www.youtube.com/watch?v=rtPHZs7pPVA

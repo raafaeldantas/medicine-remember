@@ -24,7 +24,7 @@ src/nvs_item_hash_list.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/sched.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/stdio.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/alloca.h \
@@ -81,7 +81,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/stdio.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdlib.h:
 

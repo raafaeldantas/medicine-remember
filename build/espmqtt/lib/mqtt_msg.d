@@ -19,7 +19,7 @@ lib/mqtt_msg.o: \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/string.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/lib/include/mqtt_msg.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/include/mqtt_config.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/lib/include/platform.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/lib/include/platform_esp32_idf.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -161,7 +161,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/lib/include/mqtt_msg.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/include/mqtt_config.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/espmqtt/lib/include/platform.h:
 

@@ -30,7 +30,7 @@ core/ip.o: C:/msys32/home/Rafael/esp/esp-idf/components/lwip/core/ip.c \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/stat.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/vfs/include/sys/ioctl.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_task.h \
- C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h \
+ C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_system.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/stdint.h \
  C:/msys32/home/Rafael/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -177,7 +177,7 @@ C:/msys32/home/Rafael/esp/esp-idf/components/vfs/include/sys/ioctl.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_task.h:
 
-C:/msys32/home/Rafael/esp/hello_world/build/include/sdkconfig.h:
+C:/msys32/home/Rafael/esp/medicine-remember/build/include/sdkconfig.h:
 
 C:/msys32/home/Rafael/esp/esp-idf/components/esp32/include/esp_system.h:
 
